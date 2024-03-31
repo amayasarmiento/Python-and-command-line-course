@@ -5,7 +5,6 @@ Open_frameDNA can take a DNA fasta file (.txt) and find the six possible reading
 Then it will count how many amino acids are found between start and stop codons. 
 The next functionality would be to be able to blast the protein sequence. 
 
-The following text will be updated when I figure how to make it do more! 
 
 to use: version 2 will ask for the name of your DNA fasta-format text file; 
 it will find the 6 orfs by sliding the translation window 
