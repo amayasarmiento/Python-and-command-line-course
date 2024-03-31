@@ -10,7 +10,7 @@
 
 dna_file = (input("Enter the name of the file you want to open 'no_frameDNA.txt' ; 'salmonella_sejplasmid.txt','salmonella_wesplasmid.txt':"))
 
-with open('dna_file', 'r') as file:
+with open(dna_file, 'r') as file:
     dna_strand = file.read()
     
 
