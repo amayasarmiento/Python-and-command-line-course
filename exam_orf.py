@@ -129,6 +129,7 @@ def count_sequences_between_codons(merged_sequences):
 
     return all_sequence_lengths
 
+# Here call the function just above, to do the counting on your merged dictionary 
 sequence_lengths = count_sequences_between_codons(merged_sequences)
 
 # Print summary outputs for each ORF
