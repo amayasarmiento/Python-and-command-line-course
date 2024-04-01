@@ -18,7 +18,7 @@ Features
 
 Installation
 ------------
-Uploaded as a jupyter notebook and a .py version, that can run from the command line
+Uploaded as a jupyter notebook and a exam_orf.py version, that can run from the command line
 
 
 Contribute
